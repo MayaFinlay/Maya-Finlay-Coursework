@@ -21,7 +21,7 @@ Maya Finlay
 
 ## 1.	Project Description - Brick Breaker
 
-For our Introduction to Programming Coursework, we were tasked to recreate a game like “Brickout”. The game consists of 4 walls of bricks on the top of the screen, a bouncing ball, and a horizontally movable bat on the bottom of the screen. The objective of the game is to break all the blocks by hitting them with the ball by bouncing it with the bat. Each brick destroyed awards points. If the ball falls off screen the player loses a live and causes a game over if all lives are lost.
+For our Introduction to Programming Coursework, we were tasked to recreate a game like “Brickout”. The game consists of 4 walls of bricks on the top of the screen, a bouncing ball, and a horizontally movable bat on the bottom of the screen. The objective of the game is to break all the blocks by hitting them with the ball by bouncing it with the bat. Each brick destroyed awards points. If the ball falls off screen the player loses a life and causes a game over if all lives are lost.
 
 ## 2. Description of the Code
 
